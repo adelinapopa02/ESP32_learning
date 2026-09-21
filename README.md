@@ -1,6 +1,6 @@
 # ESP32_learning
 
-Notes and code from working through the ESP32 tutorials, as prep for a personal ESP32 + ROS 2 SLAM robot project.
+Notes and code from working through ESP32 tutorials, as prep for a personal ESP32 + ROS 2 SLAM robot project.
 
 **Environment:** Ubuntu, Arduino IDE 2.x, ESP32 Dev Module (`/dev/ttyUSB0`).
 
