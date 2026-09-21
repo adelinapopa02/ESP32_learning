@@ -6,9 +6,8 @@ Notes and code from working through ESP32 tutorials.
 
 ## Structure
 
-Each component/topic gets its own folder. A folder contains:
-- the Arduino sketch(es)
-- a notes file (PDF or Markdown) with what I learned, wiring, and any issues hit
+- Each component/topic gets its own folder. A folder contains the Arduino sketch(es).
+- A notes file (PDF) with what I learned, wiring, and any issues hit
 
 ## Progress
 
