@@ -14,36 +14,36 @@ Each component/topic gets its own folder. A folder contains:
 
 ### Basic components
 
-- [x] 2.1 LED (`LED/flashing_LED`)
-- [x] 2.2 RGB LED (`LED/RGB_LED`)
-- [ ] 2.3 Digital Input
-- [ ] 2.4 Serial Monitor
-- [ ] 2.5 Active Buzzer
-- [ ] 2.6 Passive Buzzer
-- [ ] 2.7 Tilt Ball Switch
-- [ ] 2.8 Servo
-- [ ] 2.9 Ultrasonic Sensor
-- [ ] 2.10 Membrane Switch Module
-- [ ] 2.11 DHT Temperature and Humidity
-- [ ] 2.12 Joystick
-- [ ] 2.13 IR Receiver
-- [ ] 2.14 OLED
-- [ ] 2.15 Gyro
-- [ ] 2.16 PIR Motion Sensor (HC-SR501)
-- [ ] 2.17 RFID (RC522)
-- [ ] 2.18 Eight LED with 74HC595
-- [ ] 2.19 Serial Monitor Control
-- [ ] 2.20 DC Motor
-- [ ] 2.21 Stepper Motor
+- [x] LED (`LED/flashing_LED`)
+- [x] RGB LED (`LED/RGB_LED`)
+- [ ] Digital Input
+- [ ] Serial Monitor
+- [ ] Active Buzzer
+- [ ] Passive Buzzer
+- [ ] Tilt Ball Switch
+- [ ] Servo
+- [ ] Ultrasonic Sensor
+- [ ] Membrane Switch Module
+- [ ] DHT Temperature and Humidity
+- [ ] Joystick
+- [ ] IR Receiver
+- [ ] OLED
+- [ ] Gyro
+- [ ] PIR Motion Sensor (HC-SR501)
+- [ ] RFID (RC522)
+- [ ] Eight LED with 74HC595
+- [ ] Serial Monitor Control
+- [ ] DC Motor
+- [ ] Stepper Motor
 
 ### Advanced components
 
-- [ ] 3.1 Thermometer
-- [ ] 3.2 74HC595 and Segment Display
-- [ ] 3.3 PhotoCell
-- [ ] 3.4 Four Digit Seven Segment Display
-- [ ] 3.5 Relay
-- [ ] 3.6 Controlling a Stepper Motor With Remote
+- [ ] Thermometer
+- [ ] 74HC595 and Segment Display
+- [ ] PhotoCell
+- [ ] Four Digit Seven Segment Display
+- [ ] Relay
+- [ ] Controlling a Stepper Motor With Remote
 
 ## Setup
 
