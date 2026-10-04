@@ -1,48 +1,40 @@
 # ESP32_learning
 
-Notes and code from working through ESP32 tutorials.
+Notes and code from working with an ESP32 to understand basic electronic components.
 
 **Environment:** Ubuntu, Arduino IDE 2.x, ESP32 Dev Module (`/dev/ttyUSB0`).
 
 ## Structure
 
-- Each component/topic gets its own folder. A folder contains the Arduino sketch(es).
+- Each component/topic gets its own folder. A folder contains the Arduino sketch
 - A notes file (PDF) with what I learned, wiring, and any issues hit
+- A folder with libraries provided by the followed tutorials
 
 ## Progress
 
-### Basic components
+### Components
 
-- [x] LED (`LED/flashing_LED`)
-- [x] RGB LED (`LED/RGB_LED`)
-- [ ] Digital Input
-- [ ] Serial Monitor
-- [ ] Active Buzzer
-- [ ] Passive Buzzer
-- [ ] Tilt Ball Switch
-- [ ] Servo
-- [ ] Ultrasonic Sensor
-- [ ] Membrane Switch Module
-- [ ] DHT Temperature and Humidity
-- [ ] Joystick
-- [ ] IR Receiver
-- [ ] OLED
-- [ ] Gyro
-- [ ] PIR Motion Sensor (HC-SR501)
-- [ ] RFID (RC522)
-- [ ] Eight LED with 74HC595
-- [ ] Serial Monitor Control
-- [ ] DC Motor
-- [ ] Stepper Motor
-
-### Advanced components
-
-- [ ] Thermometer
-- [ ] 74HC595 and Segment Display
-- [ ] PhotoCell
-- [ ] Four Digit Seven Segment Display
-- [ ] Relay
-- [ ] Controlling a Stepper Motor With Remote
+- [x] LED
+- [x] RGB LED
+- [x] Digital Input
+- [x] Serial Monitor
+- [x] Active Buzzer
+- [x] Passive Buzzer
+- [x] Tilt Ball Switch
+- [x] Servo
+- [x] Ultrasonic Sensor
+- [x] Membrane Switch Module
+- [x] DHT Temperature and Humidity
+- [x] Joystick
+- [x] IR Receiver
+- [x] OLED
+- [x] Gyro
+- [x] PIR Motion Sensor (HC-SR501)
+- [x] RFID (RC522)
+- [x] Eight LED with 74HC595
+- [x] Serial Monitor Control
+- [x] DC Motor
+- [x] Stepper Motor
 
 ## Setup
 
