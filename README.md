@@ -6,9 +6,9 @@ Notes and code from working with an ESP32 to understand basic electronic compone
 
 ## Structure
 
-- Each component/topic gets its own folder. A folder contains the Arduino sketch
-- A notes file (PDF) with what I learned, wiring, and any issues hit
-- A folder with libraries provided by the followed tutorials
+- Each component/topic gets its own folder. A folder contains the Arduino sketch.
+- A notes file (PDF) with what I learned, wiring, and any issues hit.
+- A folder with libraries provided by the followed tutorials.
 
 ## Progress
 
@@ -28,10 +28,10 @@ Notes and code from working with an ESP32 to understand basic electronic compone
 - [x] Joystick
 - [x] IR Receiver
 - [x] OLED
-- [x] Gyro
+- [x] IMU Sensor
 - [x] PIR Motion Sensor (HC-SR501)
 - [x] RFID (RC522)
-- [x] Eight LED with 74HC595
+- [x] Shift Register (74HC595)
 - [x] Serial Monitor Control
 - [x] DC Motor
 - [x] Stepper Motor
